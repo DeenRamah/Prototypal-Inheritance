@@ -1,4 +1,4 @@
-consy animal = {
+const animal = {
   eats:true
 };
 
